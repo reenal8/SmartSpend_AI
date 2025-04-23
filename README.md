@@ -1,9 +1,6 @@
 # SmartSpend_AI
 SmartSpend AI helps you track expenses, view summaries by category, and get smart budget suggestions using Python and basic ML. Perfect for beginners building real-world, AI-powered finance tools!
 
-# SmartSpend AI
-
-A Python-based tool for tracking expenses and predicting budgets.
 
 ## Features
 - Add and categorize expenses
@@ -21,4 +18,4 @@ A Python-based tool for tracking expenses and predicting budgets.
 3. Run the script: `python main.py`
 
 ## Contact
-Email: your.email@example.com
+Email: reenal7711@gmail.com
